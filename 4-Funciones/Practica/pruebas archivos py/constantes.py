@@ -1,1 +1,0 @@
-TAMANO = 10         # Las constantes se guardan en mayusculas
